@@ -1,0 +1,2585 @@
+[
+    {
+        "ride_id": "RIDE_0001",
+        "started_at": "2026-09-30 15:30:21",
+        "ended_at": "2026-09-30 15:38:21",
+        "start_station": "Central Park North",
+        "end_station": "Grand Central",
+        "duration_minutes": 8,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0002",
+        "started_at": "2026-10-01 03:06:21",
+        "ended_at": "2026-10-01 04:03:21",
+        "start_station": "Times Square",
+        "end_station": "Chelsea",
+        "duration_minutes": 57,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0003",
+        "started_at": "2026-09-30 14:26:21",
+        "ended_at": "2026-09-30 15:11:21",
+        "start_station": "Grand Central",
+        "end_station": "SoHo",
+        "duration_minutes": 45,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0004",
+        "started_at": "2026-09-30 18:30:21",
+        "ended_at": "2026-09-30 19:03:21",
+        "start_station": "SoHo",
+        "end_station": "Times Square",
+        "duration_minutes": 33,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0005",
+        "started_at": "2026-09-30 18:59:21",
+        "ended_at": "2026-09-30 19:38:21",
+        "start_station": "Wall Street",
+        "end_station": "Times Square",
+        "duration_minutes": 39,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0006",
+        "started_at": "2026-09-30 14:53:21",
+        "ended_at": "2026-09-30 15:34:21",
+        "start_station": "Wall Street",
+        "end_station": "Union Square",
+        "duration_minutes": 41,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0007",
+        "started_at": "2026-10-01 02:09:21",
+        "ended_at": "2026-10-01 02:32:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Central Park North",
+        "duration_minutes": 23,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0008",
+        "started_at": "2026-10-01 01:56:21",
+        "ended_at": "2026-10-01 02:19:21",
+        "start_station": "SoHo",
+        "end_station": "Central Park North",
+        "duration_minutes": 23,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0009",
+        "started_at": "2026-09-30 20:39:21",
+        "ended_at": "2026-09-30 20:53:21",
+        "start_station": "SoHo",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 14,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0010",
+        "started_at": "2026-10-01 08:30:21",
+        "ended_at": "2026-10-01 08:48:21",
+        "start_station": "Grand Central",
+        "end_station": "Chelsea",
+        "duration_minutes": 18,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0011",
+        "started_at": "2026-09-30 16:01:21",
+        "ended_at": "2026-09-30 16:13:21",
+        "start_station": "Wall Street",
+        "end_station": "Times Square",
+        "duration_minutes": 12,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0012",
+        "started_at": "2026-10-01 04:28:21",
+        "ended_at": "2026-10-01 05:22:21",
+        "start_station": "SoHo",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 54,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0013",
+        "started_at": "2026-09-30 21:39:21",
+        "ended_at": "2026-09-30 22:00:21",
+        "start_station": "Wall Street",
+        "end_station": "Grand Central",
+        "duration_minutes": 21,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0014",
+        "started_at": "2026-10-01 00:10:21",
+        "ended_at": "2026-10-01 00:42:21",
+        "start_station": "Central Park North",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 32,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0015",
+        "started_at": "2026-10-01 04:41:21",
+        "ended_at": "2026-10-01 05:26:21",
+        "start_station": "SoHo",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 45,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0016",
+        "started_at": "2026-09-30 16:34:21",
+        "ended_at": "2026-09-30 17:33:21",
+        "start_station": "SoHo",
+        "end_station": "Times Square",
+        "duration_minutes": 59,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0017",
+        "started_at": "2026-10-01 02:40:21",
+        "ended_at": "2026-10-01 03:18:21",
+        "start_station": "SoHo",
+        "end_station": "Madison Square",
+        "duration_minutes": 38,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0018",
+        "started_at": "2026-09-30 19:46:21",
+        "ended_at": "2026-09-30 20:32:21",
+        "start_station": "Grand Central",
+        "end_station": "Wall Street",
+        "duration_minutes": 46,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0019",
+        "started_at": "2026-09-30 22:11:21",
+        "ended_at": "2026-09-30 22:55:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Union Square",
+        "duration_minutes": 44,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0020",
+        "started_at": "2026-09-30 19:53:21",
+        "ended_at": "2026-09-30 20:40:21",
+        "start_station": "Madison Square",
+        "end_station": "SoHo",
+        "duration_minutes": 47,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0021",
+        "started_at": "2026-10-01 03:50:21",
+        "ended_at": "2026-10-01 04:11:21",
+        "start_station": "Times Square",
+        "end_station": "SoHo",
+        "duration_minutes": 21,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0022",
+        "started_at": "2026-09-30 18:35:21",
+        "ended_at": "2026-09-30 19:31:21",
+        "start_station": "Madison Square",
+        "end_station": "Times Square",
+        "duration_minutes": 56,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0023",
+        "started_at": "2026-09-30 11:36:21",
+        "ended_at": "2026-09-30 12:03:21",
+        "start_station": "Union Square",
+        "end_station": "Times Square",
+        "duration_minutes": 27,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0024",
+        "started_at": "2026-09-30 20:41:21",
+        "ended_at": "2026-09-30 20:48:21",
+        "start_station": "Grand Central",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 7,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0025",
+        "started_at": "2026-09-30 17:26:21",
+        "ended_at": "2026-09-30 17:41:21",
+        "start_station": "Chelsea",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 15,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0001",
+        "started_at": "2026-09-30 15:30:21",
+        "ended_at": "2026-09-30 15:38:21",
+        "start_station": "Central Park North",
+        "end_station": "Grand Central",
+        "duration_minutes": 8,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0002",
+        "started_at": "2026-10-01 03:06:21",
+        "ended_at": "2026-10-01 04:03:21",
+        "start_station": "Times Square",
+        "end_station": "Chelsea",
+        "duration_minutes": 57,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0003",
+        "started_at": "2026-09-30 14:26:21",
+        "ended_at": "2026-09-30 15:11:21",
+        "start_station": "Grand Central",
+        "end_station": "SoHo",
+        "duration_minutes": 45,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0004",
+        "started_at": "2026-09-30 18:30:21",
+        "ended_at": "2026-09-30 19:03:21",
+        "start_station": "SoHo",
+        "end_station": "Times Square",
+        "duration_minutes": 33,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0005",
+        "started_at": "2026-09-30 18:59:21",
+        "ended_at": "2026-09-30 19:38:21",
+        "start_station": "Wall Street",
+        "end_station": "Times Square",
+        "duration_minutes": 39,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0006",
+        "started_at": "2026-09-30 14:53:21",
+        "ended_at": "2026-09-30 15:34:21",
+        "start_station": "Wall Street",
+        "end_station": "Union Square",
+        "duration_minutes": 41,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0007",
+        "started_at": "2026-10-01 02:09:21",
+        "ended_at": "2026-10-01 02:32:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Central Park North",
+        "duration_minutes": 23,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0008",
+        "started_at": "2026-10-01 01:56:21",
+        "ended_at": "2026-10-01 02:19:21",
+        "start_station": "SoHo",
+        "end_station": "Central Park North",
+        "duration_minutes": 23,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0009",
+        "started_at": "2026-09-30 20:39:21",
+        "ended_at": "2026-09-30 20:53:21",
+        "start_station": "SoHo",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 14,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0010",
+        "started_at": "2026-10-01 08:30:21",
+        "ended_at": "2026-10-01 08:48:21",
+        "start_station": "Grand Central",
+        "end_station": "Chelsea",
+        "duration_minutes": 18,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0011",
+        "started_at": "2026-09-30 16:01:21",
+        "ended_at": "2026-09-30 16:13:21",
+        "start_station": "Wall Street",
+        "end_station": "Times Square",
+        "duration_minutes": 12,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0012",
+        "started_at": "2026-10-01 04:28:21",
+        "ended_at": "2026-10-01 05:22:21",
+        "start_station": "SoHo",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 54,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0013",
+        "started_at": "2026-09-30 21:39:21",
+        "ended_at": "2026-09-30 22:00:21",
+        "start_station": "Wall Street",
+        "end_station": "Grand Central",
+        "duration_minutes": 21,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0014",
+        "started_at": "2026-10-01 00:10:21",
+        "ended_at": "2026-10-01 00:42:21",
+        "start_station": "Central Park North",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 32,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0015",
+        "started_at": "2026-10-01 04:41:21",
+        "ended_at": "2026-10-01 05:26:21",
+        "start_station": "SoHo",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 45,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0016",
+        "started_at": "2026-09-30 16:34:21",
+        "ended_at": "2026-09-30 17:33:21",
+        "start_station": "SoHo",
+        "end_station": "Times Square",
+        "duration_minutes": 59,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0017",
+        "started_at": "2026-10-01 02:40:21",
+        "ended_at": "2026-10-01 03:18:21",
+        "start_station": "SoHo",
+        "end_station": "Madison Square",
+        "duration_minutes": 38,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0018",
+        "started_at": "2026-09-30 19:46:21",
+        "ended_at": "2026-09-30 20:32:21",
+        "start_station": "Grand Central",
+        "end_station": "Wall Street",
+        "duration_minutes": 46,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0019",
+        "started_at": "2026-09-30 22:11:21",
+        "ended_at": "2026-09-30 22:55:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Union Square",
+        "duration_minutes": 44,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0020",
+        "started_at": "2026-09-30 19:53:21",
+        "ended_at": "2026-09-30 20:40:21",
+        "start_station": "Madison Square",
+        "end_station": "SoHo",
+        "duration_minutes": 47,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0021",
+        "started_at": "2026-10-01 03:50:21",
+        "ended_at": "2026-10-01 04:11:21",
+        "start_station": "Times Square",
+        "end_station": "SoHo",
+        "duration_minutes": 21,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0022",
+        "started_at": "2026-09-30 18:35:21",
+        "ended_at": "2026-09-30 19:31:21",
+        "start_station": "Madison Square",
+        "end_station": "Times Square",
+        "duration_minutes": 56,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0023",
+        "started_at": "2026-09-30 11:36:21",
+        "ended_at": "2026-09-30 12:03:21",
+        "start_station": "Union Square",
+        "end_station": "Times Square",
+        "duration_minutes": 27,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0024",
+        "started_at": "2026-09-30 20:41:21",
+        "ended_at": "2026-09-30 20:48:21",
+        "start_station": "Grand Central",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 7,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0025",
+        "started_at": "2026-09-30 17:26:21",
+        "ended_at": "2026-09-30 17:41:21",
+        "start_station": "Chelsea",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 15,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0026",
+        "started_at": "2026-10-01 02:23:21",
+        "ended_at": "2026-10-01 02:35:21",
+        "start_station": "Times Square",
+        "end_station": "Central Park North",
+        "duration_minutes": 12,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0027",
+        "started_at": "2026-09-30 15:13:21",
+        "ended_at": "2026-09-30 15:38:21",
+        "start_station": "Union Square",
+        "end_station": "Wall Street",
+        "duration_minutes": 25,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0028",
+        "started_at": "2026-10-01 04:20:21",
+        "ended_at": "2026-10-01 04:39:21",
+        "start_station": "SoHo",
+        "end_station": "Wall Street",
+        "duration_minutes": 19,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0029",
+        "started_at": "2026-09-30 18:51:21",
+        "ended_at": "2026-09-30 19:19:21",
+        "start_station": "Madison Square",
+        "end_station": "Central Park North",
+        "duration_minutes": 28,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0030",
+        "started_at": "2026-10-01 00:28:21",
+        "ended_at": "2026-10-01 00:35:21",
+        "start_station": "Grand Central",
+        "end_station": "Madison Square",
+        "duration_minutes": 7,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0031",
+        "started_at": "2026-10-01 01:01:21",
+        "ended_at": "2026-10-01 01:19:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Chelsea",
+        "duration_minutes": 18,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0032",
+        "started_at": "2026-10-01 04:43:21",
+        "ended_at": "2026-10-01 05:36:21",
+        "start_station": "Madison Square",
+        "end_station": "Wall Street",
+        "duration_minutes": 53,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0033",
+        "started_at": "2026-10-01 04:09:21",
+        "ended_at": "2026-10-01 05:02:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Central Park North",
+        "duration_minutes": 53,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0034",
+        "started_at": "2026-09-30 19:25:21",
+        "ended_at": "2026-09-30 20:13:21",
+        "start_station": "Wall Street",
+        "end_station": "Chelsea",
+        "duration_minutes": 48,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0035",
+        "started_at": "2026-10-01 08:25:21",
+        "ended_at": "2026-10-01 09:07:21",
+        "start_station": "Madison Square",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 42,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0036",
+        "started_at": "2026-10-01 08:21:21",
+        "ended_at": "2026-10-01 08:52:21",
+        "start_station": "SoHo",
+        "end_station": "Central Park North",
+        "duration_minutes": 31,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0037",
+        "started_at": "2026-10-01 04:48:21",
+        "ended_at": "2026-10-01 05:27:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 39,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0038",
+        "started_at": "2026-09-30 19:35:21",
+        "ended_at": "2026-09-30 20:31:21",
+        "start_station": "Grand Central",
+        "end_station": "Central Park North",
+        "duration_minutes": 56,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0039",
+        "started_at": "2026-09-30 14:41:21",
+        "ended_at": "2026-09-30 15:06:21",
+        "start_station": "Union Square",
+        "end_station": "SoHo",
+        "duration_minutes": 25,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0040",
+        "started_at": "2026-10-01 02:31:21",
+        "ended_at": "2026-10-01 03:21:21",
+        "start_station": "Times Square",
+        "end_station": "Grand Central",
+        "duration_minutes": 50,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0041",
+        "started_at": "2026-10-01 04:06:21",
+        "ended_at": "2026-10-01 04:20:21",
+        "start_station": "Central Park North",
+        "end_station": "Madison Square",
+        "duration_minutes": 14,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0042",
+        "started_at": "2026-10-01 08:01:21",
+        "ended_at": "2026-10-01 08:48:21",
+        "start_station": "Madison Square",
+        "end_station": "Grand Central",
+        "duration_minutes": 47,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0043",
+        "started_at": "2026-10-01 07:32:21",
+        "ended_at": "2026-10-01 08:28:21",
+        "start_station": "Madison Square",
+        "end_station": "Chelsea",
+        "duration_minutes": 56,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0001",
+        "started_at": "2026-09-30 15:30:21",
+        "ended_at": "2026-09-30 15:38:21",
+        "start_station": "Central Park North",
+        "end_station": "Grand Central",
+        "duration_minutes": 8,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0002",
+        "started_at": "2026-10-01 03:06:21",
+        "ended_at": "2026-10-01 04:03:21",
+        "start_station": "Times Square",
+        "end_station": "Chelsea",
+        "duration_minutes": 57,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0003",
+        "started_at": "2026-09-30 14:26:21",
+        "ended_at": "2026-09-30 15:11:21",
+        "start_station": "Grand Central",
+        "end_station": "SoHo",
+        "duration_minutes": 45,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0004",
+        "started_at": "2026-09-30 18:30:21",
+        "ended_at": "2026-09-30 19:03:21",
+        "start_station": "SoHo",
+        "end_station": "Times Square",
+        "duration_minutes": 33,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0005",
+        "started_at": "2026-09-30 18:59:21",
+        "ended_at": "2026-09-30 19:38:21",
+        "start_station": "Wall Street",
+        "end_station": "Times Square",
+        "duration_minutes": 39,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0006",
+        "started_at": "2026-09-30 14:53:21",
+        "ended_at": "2026-09-30 15:34:21",
+        "start_station": "Wall Street",
+        "end_station": "Union Square",
+        "duration_minutes": 41,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0007",
+        "started_at": "2026-10-01 02:09:21",
+        "ended_at": "2026-10-01 02:32:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Central Park North",
+        "duration_minutes": 23,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0008",
+        "started_at": "2026-10-01 01:56:21",
+        "ended_at": "2026-10-01 02:19:21",
+        "start_station": "SoHo",
+        "end_station": "Central Park North",
+        "duration_minutes": 23,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0009",
+        "started_at": "2026-09-30 20:39:21",
+        "ended_at": "2026-09-30 20:53:21",
+        "start_station": "SoHo",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 14,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0010",
+        "started_at": "2026-10-01 08:30:21",
+        "ended_at": "2026-10-01 08:48:21",
+        "start_station": "Grand Central",
+        "end_station": "Chelsea",
+        "duration_minutes": 18,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0011",
+        "started_at": "2026-09-30 16:01:21",
+        "ended_at": "2026-09-30 16:13:21",
+        "start_station": "Wall Street",
+        "end_station": "Times Square",
+        "duration_minutes": 12,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0012",
+        "started_at": "2026-10-01 04:28:21",
+        "ended_at": "2026-10-01 05:22:21",
+        "start_station": "SoHo",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 54,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0013",
+        "started_at": "2026-09-30 21:39:21",
+        "ended_at": "2026-09-30 22:00:21",
+        "start_station": "Wall Street",
+        "end_station": "Grand Central",
+        "duration_minutes": 21,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0014",
+        "started_at": "2026-10-01 00:10:21",
+        "ended_at": "2026-10-01 00:42:21",
+        "start_station": "Central Park North",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 32,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0015",
+        "started_at": "2026-10-01 04:41:21",
+        "ended_at": "2026-10-01 05:26:21",
+        "start_station": "SoHo",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 45,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0016",
+        "started_at": "2026-09-30 16:34:21",
+        "ended_at": "2026-09-30 17:33:21",
+        "start_station": "SoHo",
+        "end_station": "Times Square",
+        "duration_minutes": 59,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0017",
+        "started_at": "2026-10-01 02:40:21",
+        "ended_at": "2026-10-01 03:18:21",
+        "start_station": "SoHo",
+        "end_station": "Madison Square",
+        "duration_minutes": 38,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0018",
+        "started_at": "2026-09-30 19:46:21",
+        "ended_at": "2026-09-30 20:32:21",
+        "start_station": "Grand Central",
+        "end_station": "Wall Street",
+        "duration_minutes": 46,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0019",
+        "started_at": "2026-09-30 22:11:21",
+        "ended_at": "2026-09-30 22:55:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Union Square",
+        "duration_minutes": 44,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0020",
+        "started_at": "2026-09-30 19:53:21",
+        "ended_at": "2026-09-30 20:40:21",
+        "start_station": "Madison Square",
+        "end_station": "SoHo",
+        "duration_minutes": 47,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0021",
+        "started_at": "2026-10-01 03:50:21",
+        "ended_at": "2026-10-01 04:11:21",
+        "start_station": "Times Square",
+        "end_station": "SoHo",
+        "duration_minutes": 21,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0022",
+        "started_at": "2026-09-30 18:35:21",
+        "ended_at": "2026-09-30 19:31:21",
+        "start_station": "Madison Square",
+        "end_station": "Times Square",
+        "duration_minutes": 56,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0023",
+        "started_at": "2026-09-30 11:36:21",
+        "ended_at": "2026-09-30 12:03:21",
+        "start_station": "Union Square",
+        "end_station": "Times Square",
+        "duration_minutes": 27,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0024",
+        "started_at": "2026-09-30 20:41:21",
+        "ended_at": "2026-09-30 20:48:21",
+        "start_station": "Grand Central",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 7,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0025",
+        "started_at": "2026-09-30 17:26:21",
+        "ended_at": "2026-09-30 17:41:21",
+        "start_station": "Chelsea",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 15,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0026",
+        "started_at": "2026-10-01 02:23:21",
+        "ended_at": "2026-10-01 02:35:21",
+        "start_station": "Times Square",
+        "end_station": "Central Park North",
+        "duration_minutes": 12,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0027",
+        "started_at": "2026-09-30 15:13:21",
+        "ended_at": "2026-09-30 15:38:21",
+        "start_station": "Union Square",
+        "end_station": "Wall Street",
+        "duration_minutes": 25,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0028",
+        "started_at": "2026-10-01 04:20:21",
+        "ended_at": "2026-10-01 04:39:21",
+        "start_station": "SoHo",
+        "end_station": "Wall Street",
+        "duration_minutes": 19,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0029",
+        "started_at": "2026-09-30 18:51:21",
+        "ended_at": "2026-09-30 19:19:21",
+        "start_station": "Madison Square",
+        "end_station": "Central Park North",
+        "duration_minutes": 28,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0030",
+        "started_at": "2026-10-01 00:28:21",
+        "ended_at": "2026-10-01 00:35:21",
+        "start_station": "Grand Central",
+        "end_station": "Madison Square",
+        "duration_minutes": 7,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0031",
+        "started_at": "2026-10-01 01:01:21",
+        "ended_at": "2026-10-01 01:19:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Chelsea",
+        "duration_minutes": 18,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0032",
+        "started_at": "2026-10-01 04:43:21",
+        "ended_at": "2026-10-01 05:36:21",
+        "start_station": "Madison Square",
+        "end_station": "Wall Street",
+        "duration_minutes": 53,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0033",
+        "started_at": "2026-10-01 04:09:21",
+        "ended_at": "2026-10-01 05:02:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Central Park North",
+        "duration_minutes": 53,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0034",
+        "started_at": "2026-09-30 19:25:21",
+        "ended_at": "2026-09-30 20:13:21",
+        "start_station": "Wall Street",
+        "end_station": "Chelsea",
+        "duration_minutes": 48,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0035",
+        "started_at": "2026-10-01 08:25:21",
+        "ended_at": "2026-10-01 09:07:21",
+        "start_station": "Madison Square",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 42,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0036",
+        "started_at": "2026-10-01 08:21:21",
+        "ended_at": "2026-10-01 08:52:21",
+        "start_station": "SoHo",
+        "end_station": "Central Park North",
+        "duration_minutes": 31,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0037",
+        "started_at": "2026-10-01 04:48:21",
+        "ended_at": "2026-10-01 05:27:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 39,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0038",
+        "started_at": "2026-09-30 19:35:21",
+        "ended_at": "2026-09-30 20:31:21",
+        "start_station": "Grand Central",
+        "end_station": "Central Park North",
+        "duration_minutes": 56,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0039",
+        "started_at": "2026-09-30 14:41:21",
+        "ended_at": "2026-09-30 15:06:21",
+        "start_station": "Union Square",
+        "end_station": "SoHo",
+        "duration_minutes": 25,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0040",
+        "started_at": "2026-10-01 02:31:21",
+        "ended_at": "2026-10-01 03:21:21",
+        "start_station": "Times Square",
+        "end_station": "Grand Central",
+        "duration_minutes": 50,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0041",
+        "started_at": "2026-10-01 04:06:21",
+        "ended_at": "2026-10-01 04:20:21",
+        "start_station": "Central Park North",
+        "end_station": "Madison Square",
+        "duration_minutes": 14,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0042",
+        "started_at": "2026-10-01 08:01:21",
+        "ended_at": "2026-10-01 08:48:21",
+        "start_station": "Madison Square",
+        "end_station": "Grand Central",
+        "duration_minutes": 47,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0043",
+        "started_at": "2026-10-01 07:32:21",
+        "ended_at": "2026-10-01 08:28:21",
+        "start_station": "Madison Square",
+        "end_station": "Chelsea",
+        "duration_minutes": 56,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0044",
+        "started_at": "2026-10-01 06:20:21",
+        "ended_at": "2026-10-01 06:27:21",
+        "start_station": "SoHo",
+        "end_station": "Grand Central",
+        "duration_minutes": 7,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0045",
+        "started_at": "2026-10-01 08:40:21",
+        "ended_at": "2026-10-01 08:50:21",
+        "start_station": "SoHo",
+        "end_station": "Times Square",
+        "duration_minutes": 10,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0046",
+        "started_at": "2026-10-01 04:52:21",
+        "ended_at": "2026-10-01 05:33:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Central Park North",
+        "duration_minutes": 41,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0047",
+        "started_at": "2026-10-01 09:33:21",
+        "ended_at": "2026-10-01 10:21:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Wall Street",
+        "duration_minutes": 48,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0048",
+        "started_at": "2026-10-01 01:29:21",
+        "ended_at": "2026-10-01 02:21:21",
+        "start_station": "Union Square",
+        "end_station": "Chelsea",
+        "duration_minutes": 52,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0049",
+        "started_at": "2026-09-30 22:37:21",
+        "ended_at": "2026-09-30 22:51:21",
+        "start_station": "Union Square",
+        "end_station": "Wall Street",
+        "duration_minutes": 14,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0050",
+        "started_at": "2026-10-01 04:17:21",
+        "ended_at": "2026-10-01 04:40:21",
+        "start_station": "SoHo",
+        "end_station": "Grand Central",
+        "duration_minutes": 23,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0051",
+        "started_at": "2026-10-01 10:09:21",
+        "ended_at": "2026-10-01 10:47:21",
+        "start_station": "Chelsea",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 38,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0052",
+        "started_at": "2026-10-01 07:36:21",
+        "ended_at": "2026-10-01 08:32:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Times Square",
+        "duration_minutes": 56,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0053",
+        "started_at": "2026-10-01 05:54:21",
+        "ended_at": "2026-10-01 06:17:21",
+        "start_station": "Wall Street",
+        "end_station": "Central Park North",
+        "duration_minutes": 23,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0054",
+        "started_at": "2026-10-01 08:46:21",
+        "ended_at": "2026-10-01 09:35:21",
+        "start_station": "Wall Street",
+        "end_station": "Central Park North",
+        "duration_minutes": 49,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0055",
+        "started_at": "2026-09-30 16:29:21",
+        "ended_at": "2026-09-30 17:02:21",
+        "start_station": "Wall Street",
+        "end_station": "Union Square",
+        "duration_minutes": 33,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0056",
+        "started_at": "2026-09-30 21:29:21",
+        "ended_at": "2026-09-30 22:21:21",
+        "start_station": "Columbus Circle",
+        "end_station": "SoHo",
+        "duration_minutes": 52,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0057",
+        "started_at": "2026-10-01 10:12:21",
+        "ended_at": "2026-10-01 10:37:21",
+        "start_station": "Chelsea",
+        "end_station": "Union Square",
+        "duration_minutes": 25,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0058",
+        "started_at": "2026-10-01 00:23:21",
+        "ended_at": "2026-10-01 01:21:21",
+        "start_station": "Times Square",
+        "end_station": "Chelsea",
+        "duration_minutes": 58,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0059",
+        "started_at": "2026-09-30 22:13:21",
+        "ended_at": "2026-09-30 22:55:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Wall Street",
+        "duration_minutes": 42,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0060",
+        "started_at": "2026-10-01 10:35:21",
+        "ended_at": "2026-10-01 11:03:21",
+        "start_station": "Union Square",
+        "end_station": "Chelsea",
+        "duration_minutes": 28,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0061",
+        "started_at": "2026-09-30 11:05:21",
+        "ended_at": "2026-09-30 11:19:21",
+        "start_station": "Chelsea",
+        "end_station": "Union Square",
+        "duration_minutes": 14,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0062",
+        "started_at": "2026-09-30 10:56:21",
+        "ended_at": "2026-09-30 11:06:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Wall Street",
+        "duration_minutes": 10,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0063",
+        "started_at": "2026-09-30 19:02:21",
+        "ended_at": "2026-09-30 19:09:21",
+        "start_station": "Grand Central",
+        "end_station": "Times Square",
+        "duration_minutes": 7,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0064",
+        "started_at": "2026-09-30 15:12:21",
+        "ended_at": "2026-09-30 15:42:21",
+        "start_station": "Central Park North",
+        "end_station": "Wall Street",
+        "duration_minutes": 30,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0065",
+        "started_at": "2026-09-30 16:50:21",
+        "ended_at": "2026-09-30 17:47:21",
+        "start_station": "Grand Central",
+        "end_station": "Chelsea",
+        "duration_minutes": 57,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0066",
+        "started_at": "2026-10-01 00:27:21",
+        "ended_at": "2026-10-01 01:12:21",
+        "start_station": "Madison Square",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 45,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0067",
+        "started_at": "2026-10-01 03:41:21",
+        "ended_at": "2026-10-01 04:33:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Central Park North",
+        "duration_minutes": 52,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0068",
+        "started_at": "2026-10-01 10:46:21",
+        "ended_at": "2026-10-01 11:25:21",
+        "start_station": "Chelsea",
+        "end_station": "Grand Central",
+        "duration_minutes": 39,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0069",
+        "started_at": "2026-09-30 13:39:21",
+        "ended_at": "2026-09-30 14:04:21",
+        "start_station": "Grand Central",
+        "end_station": "Wall Street",
+        "duration_minutes": 25,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0070",
+        "started_at": "2026-09-30 11:06:21",
+        "ended_at": "2026-09-30 12:06:21",
+        "start_station": "Madison Square",
+        "end_station": "Central Park North",
+        "duration_minutes": 60,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0071",
+        "started_at": "2026-09-30 18:21:21",
+        "ended_at": "2026-09-30 19:04:21",
+        "start_station": "SoHo",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 43,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0072",
+        "started_at": "2026-09-30 23:52:21",
+        "ended_at": "2026-10-01 00:48:21",
+        "start_station": "Madison Square",
+        "end_station": "Times Square",
+        "duration_minutes": 56,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0073",
+        "started_at": "2026-10-01 08:01:21",
+        "ended_at": "2026-10-01 08:47:21",
+        "start_station": "Chelsea",
+        "end_station": "Union Square",
+        "duration_minutes": 46,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0074",
+        "started_at": "2026-10-01 05:28:21",
+        "ended_at": "2026-10-01 06:25:21",
+        "start_station": "Madison Square",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 57,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0075",
+        "started_at": "2026-10-01 06:00:21",
+        "ended_at": "2026-10-01 06:07:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Union Square",
+        "duration_minutes": 7,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0076",
+        "started_at": "2026-10-01 05:26:21",
+        "ended_at": "2026-10-01 06:10:21",
+        "start_station": "Grand Central",
+        "end_station": "Times Square",
+        "duration_minutes": 44,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0077",
+        "started_at": "2026-09-30 16:05:21",
+        "ended_at": "2026-09-30 16:51:21",
+        "start_station": "Grand Central",
+        "end_station": "Union Square",
+        "duration_minutes": 46,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0078",
+        "started_at": "2026-09-30 16:29:21",
+        "ended_at": "2026-09-30 17:13:21",
+        "start_station": "Times Square",
+        "end_station": "Union Square",
+        "duration_minutes": 44,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0079",
+        "started_at": "2026-09-30 16:25:21",
+        "ended_at": "2026-09-30 16:50:21",
+        "start_station": "Central Park North",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 25,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0080",
+        "started_at": "2026-10-01 09:25:21",
+        "ended_at": "2026-10-01 09:57:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Madison Square",
+        "duration_minutes": 32,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0081",
+        "started_at": "2026-10-01 04:22:21",
+        "ended_at": "2026-10-01 04:46:21",
+        "start_station": "Central Park North",
+        "end_station": "Wall Street",
+        "duration_minutes": 24,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0082",
+        "started_at": "2026-10-01 08:08:21",
+        "ended_at": "2026-10-01 08:23:21",
+        "start_station": "Grand Central",
+        "end_station": "Central Park North",
+        "duration_minutes": 15,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0083",
+        "started_at": "2026-10-01 01:46:21",
+        "ended_at": "2026-10-01 02:23:21",
+        "start_station": "Times Square",
+        "end_station": "Chelsea",
+        "duration_minutes": 37,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0084",
+        "started_at": "2026-10-01 00:35:21",
+        "ended_at": "2026-10-01 01:04:21",
+        "start_station": "Union Square",
+        "end_station": "Central Park North",
+        "duration_minutes": 29,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0085",
+        "started_at": "2026-09-30 22:02:21",
+        "ended_at": "2026-09-30 22:45:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Central Park North",
+        "duration_minutes": 43,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0086",
+        "started_at": "2026-09-30 12:33:21",
+        "ended_at": "2026-09-30 12:55:21",
+        "start_station": "Times Square",
+        "end_station": "Central Park North",
+        "duration_minutes": 22,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0087",
+        "started_at": "2026-09-30 11:30:21",
+        "ended_at": "2026-09-30 11:54:21",
+        "start_station": "SoHo",
+        "end_station": "Central Park North",
+        "duration_minutes": 24,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0088",
+        "started_at": "2026-09-30 15:18:21",
+        "ended_at": "2026-09-30 15:49:21",
+        "start_station": "Wall Street",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 31,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0089",
+        "started_at": "2026-09-30 17:43:21",
+        "ended_at": "2026-09-30 18:43:21",
+        "start_station": "Union Square",
+        "end_station": "Grand Central",
+        "duration_minutes": 60,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0090",
+        "started_at": "2026-10-01 07:05:21",
+        "ended_at": "2026-10-01 07:51:21",
+        "start_station": "Union Square",
+        "end_station": "Madison Square",
+        "duration_minutes": 46,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0091",
+        "started_at": "2026-09-30 12:38:21",
+        "ended_at": "2026-09-30 13:35:21",
+        "start_station": "Times Square",
+        "end_station": "SoHo",
+        "duration_minutes": 57,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0092",
+        "started_at": "2026-09-30 23:51:21",
+        "ended_at": "2026-10-01 00:30:21",
+        "start_station": "Union Square",
+        "end_station": "SoHo",
+        "duration_minutes": 39,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0093",
+        "started_at": "2026-10-01 07:37:21",
+        "ended_at": "2026-10-01 07:43:21",
+        "start_station": "Wall Street",
+        "end_station": "Central Park North",
+        "duration_minutes": 6,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0094",
+        "started_at": "2026-09-30 11:47:21",
+        "ended_at": "2026-09-30 12:02:21",
+        "start_station": "Madison Square",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 15,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0095",
+        "started_at": "2026-09-30 22:28:21",
+        "ended_at": "2026-09-30 23:09:21",
+        "start_station": "Times Square",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 41,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0096",
+        "started_at": "2026-09-30 16:26:21",
+        "ended_at": "2026-09-30 16:54:21",
+        "start_station": "Madison Square",
+        "end_station": "Times Square",
+        "duration_minutes": 28,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0097",
+        "started_at": "2026-09-30 20:41:21",
+        "ended_at": "2026-09-30 21:33:21",
+        "start_station": "Times Square",
+        "end_station": "Chelsea",
+        "duration_minutes": 52,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0098",
+        "started_at": "2026-10-01 03:54:21",
+        "ended_at": "2026-10-01 04:21:21",
+        "start_station": "Union Square",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 27,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0099",
+        "started_at": "2026-09-30 10:56:21",
+        "ended_at": "2026-09-30 11:51:21",
+        "start_station": "Madison Square",
+        "end_station": "Central Park North",
+        "duration_minutes": 55,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0100",
+        "started_at": "2026-09-30 12:59:21",
+        "ended_at": "2026-09-30 13:47:21",
+        "start_station": "Madison Square",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 48,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0101",
+        "started_at": "2026-10-01 05:25:21",
+        "ended_at": "2026-10-01 06:10:21",
+        "start_station": "SoHo",
+        "end_station": "Grand Central",
+        "duration_minutes": 45,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0102",
+        "started_at": "2026-09-30 21:36:21",
+        "ended_at": "2026-09-30 21:43:21",
+        "start_station": "Wall Street",
+        "end_station": "Chelsea",
+        "duration_minutes": 7,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0103",
+        "started_at": "2026-10-01 04:32:21",
+        "ended_at": "2026-10-01 04:46:21",
+        "start_station": "Grand Central",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 14,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0104",
+        "started_at": "2026-10-01 00:50:21",
+        "ended_at": "2026-10-01 01:15:21",
+        "start_station": "Grand Central",
+        "end_station": "Wall Street",
+        "duration_minutes": 25,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0105",
+        "started_at": "2026-09-30 15:44:21",
+        "ended_at": "2026-09-30 16:44:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Times Square",
+        "duration_minutes": 60,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0106",
+        "started_at": "2026-09-30 21:26:21",
+        "ended_at": "2026-09-30 21:34:21",
+        "start_station": "Chelsea",
+        "end_station": "Times Square",
+        "duration_minutes": 8,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0107",
+        "started_at": "2026-09-30 16:43:21",
+        "ended_at": "2026-09-30 17:28:21",
+        "start_station": "Union Square",
+        "end_station": "Chelsea",
+        "duration_minutes": 45,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0108",
+        "started_at": "2026-09-30 14:01:21",
+        "ended_at": "2026-09-30 14:21:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Central Park North",
+        "duration_minutes": 20,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0109",
+        "started_at": "2026-09-30 13:27:21",
+        "ended_at": "2026-09-30 13:56:21",
+        "start_station": "Grand Central",
+        "end_station": "Central Park North",
+        "duration_minutes": 29,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0110",
+        "started_at": "2026-09-30 16:00:21",
+        "ended_at": "2026-09-30 16:09:21",
+        "start_station": "Grand Central",
+        "end_station": "Chelsea",
+        "duration_minutes": 9,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0111",
+        "started_at": "2026-09-30 22:53:21",
+        "ended_at": "2026-09-30 23:03:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Grand Central",
+        "duration_minutes": 10,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0112",
+        "started_at": "2026-10-01 10:16:21",
+        "ended_at": "2026-10-01 10:24:21",
+        "start_station": "Union Square",
+        "end_station": "Times Square",
+        "duration_minutes": 8,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0113",
+        "started_at": "2026-10-01 09:32:21",
+        "ended_at": "2026-10-01 10:18:21",
+        "start_station": "SoHo",
+        "end_station": "Chelsea",
+        "duration_minutes": 46,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0114",
+        "started_at": "2026-09-30 21:53:21",
+        "ended_at": "2026-09-30 22:09:21",
+        "start_station": "Wall Street",
+        "end_station": "Madison Square",
+        "duration_minutes": 16,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0115",
+        "started_at": "2026-09-30 11:52:21",
+        "ended_at": "2026-09-30 12:52:21",
+        "start_station": "Madison Square",
+        "end_station": "Wall Street",
+        "duration_minutes": 60,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0116",
+        "started_at": "2026-09-30 12:30:21",
+        "ended_at": "2026-09-30 13:02:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "SoHo",
+        "duration_minutes": 32,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0117",
+        "started_at": "2026-09-30 16:36:21",
+        "ended_at": "2026-09-30 17:19:21",
+        "start_station": "SoHo",
+        "end_station": "Grand Central",
+        "duration_minutes": 43,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0118",
+        "started_at": "2026-10-01 08:57:21",
+        "ended_at": "2026-10-01 09:12:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Madison Square",
+        "duration_minutes": 15,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0119",
+        "started_at": "2026-10-01 04:19:21",
+        "ended_at": "2026-10-01 04:31:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Madison Square",
+        "duration_minutes": 12,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0120",
+        "started_at": "2026-09-30 22:41:21",
+        "ended_at": "2026-09-30 23:00:21",
+        "start_station": "Chelsea",
+        "end_station": "Central Park North",
+        "duration_minutes": 19,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0121",
+        "started_at": "2026-10-01 00:44:21",
+        "ended_at": "2026-10-01 01:15:21",
+        "start_station": "SoHo",
+        "end_station": "Wall Street",
+        "duration_minutes": 31,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0122",
+        "started_at": "2026-09-30 12:46:21",
+        "ended_at": "2026-09-30 13:18:21",
+        "start_station": "Central Park North",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 32,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0123",
+        "started_at": "2026-10-01 02:18:21",
+        "ended_at": "2026-10-01 02:26:21",
+        "start_station": "Wall Street",
+        "end_station": "Union Square",
+        "duration_minutes": 8,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0124",
+        "started_at": "2026-09-30 18:28:21",
+        "ended_at": "2026-09-30 18:46:21",
+        "start_station": "Union Square",
+        "end_station": "Wall Street",
+        "duration_minutes": 18,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0125",
+        "started_at": "2026-10-01 09:48:21",
+        "ended_at": "2026-10-01 10:39:21",
+        "start_station": "Times Square",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 51,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0126",
+        "started_at": "2026-10-01 02:26:21",
+        "ended_at": "2026-10-01 02:33:21",
+        "start_station": "Times Square",
+        "end_station": "Wall Street",
+        "duration_minutes": 7,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0127",
+        "started_at": "2026-10-01 07:16:21",
+        "ended_at": "2026-10-01 07:35:21",
+        "start_station": "Madison Square",
+        "end_station": "Times Square",
+        "duration_minutes": 19,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0128",
+        "started_at": "2026-09-30 15:45:21",
+        "ended_at": "2026-09-30 16:06:21",
+        "start_station": "Chelsea",
+        "end_station": "Grand Central",
+        "duration_minutes": 21,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0129",
+        "started_at": "2026-09-30 11:54:21",
+        "ended_at": "2026-09-30 12:36:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Central Park North",
+        "duration_minutes": 42,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0130",
+        "started_at": "2026-10-01 07:51:21",
+        "ended_at": "2026-10-01 08:40:21",
+        "start_station": "SoHo",
+        "end_station": "Chelsea",
+        "duration_minutes": 49,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0131",
+        "started_at": "2026-10-01 00:57:21",
+        "ended_at": "2026-10-01 01:52:21",
+        "start_station": "Times Square",
+        "end_station": "Madison Square",
+        "duration_minutes": 55,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0132",
+        "started_at": "2026-09-30 21:50:21",
+        "ended_at": "2026-09-30 22:40:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Central Park North",
+        "duration_minutes": 50,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0133",
+        "started_at": "2026-10-01 04:25:21",
+        "ended_at": "2026-10-01 04:33:21",
+        "start_station": "Madison Square",
+        "end_station": "Wall Street",
+        "duration_minutes": 8,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0134",
+        "started_at": "2026-10-01 09:38:21",
+        "ended_at": "2026-10-01 09:47:21",
+        "start_station": "Central Park North",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 9,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0135",
+        "started_at": "2026-09-30 14:51:21",
+        "ended_at": "2026-09-30 15:48:21",
+        "start_station": "Grand Central",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 57,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0136",
+        "started_at": "2026-09-30 23:01:21",
+        "ended_at": "2026-09-30 23:40:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Chelsea",
+        "duration_minutes": 39,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0137",
+        "started_at": "2026-10-01 00:55:21",
+        "ended_at": "2026-10-01 01:52:21",
+        "start_station": "Grand Central",
+        "end_station": "Chelsea",
+        "duration_minutes": 57,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0138",
+        "started_at": "2026-10-01 01:36:21",
+        "ended_at": "2026-10-01 02:29:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Central Park North",
+        "duration_minutes": 53,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0139",
+        "started_at": "2026-10-01 06:04:21",
+        "ended_at": "2026-10-01 06:30:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Wall Street",
+        "duration_minutes": 26,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0140",
+        "started_at": "2026-09-30 20:32:21",
+        "ended_at": "2026-09-30 21:23:21",
+        "start_station": "Chelsea",
+        "end_station": "SoHo",
+        "duration_minutes": 51,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0141",
+        "started_at": "2026-09-30 19:32:21",
+        "ended_at": "2026-09-30 19:42:21",
+        "start_station": "Union Square",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 10,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0142",
+        "started_at": "2026-10-01 06:38:21",
+        "ended_at": "2026-10-01 07:16:21",
+        "start_station": "Grand Central",
+        "end_station": "Chelsea",
+        "duration_minutes": 38,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0143",
+        "started_at": "2026-09-30 19:53:21",
+        "ended_at": "2026-09-30 19:58:21",
+        "start_station": "Madison Square",
+        "end_station": "Chelsea",
+        "duration_minutes": 5,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0144",
+        "started_at": "2026-10-01 01:04:21",
+        "ended_at": "2026-10-01 02:00:21",
+        "start_station": "Madison Square",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 56,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0145",
+        "started_at": "2026-09-30 18:39:21",
+        "ended_at": "2026-09-30 19:36:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Chelsea",
+        "duration_minutes": 57,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0146",
+        "started_at": "2026-10-01 01:08:21",
+        "ended_at": "2026-10-01 02:05:21",
+        "start_station": "Times Square",
+        "end_station": "Chelsea",
+        "duration_minutes": 57,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0147",
+        "started_at": "2026-09-30 23:16:21",
+        "ended_at": "2026-09-30 23:59:21",
+        "start_station": "Grand Central",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 43,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0148",
+        "started_at": "2026-09-30 11:24:21",
+        "ended_at": "2026-09-30 11:46:21",
+        "start_station": "Wall Street",
+        "end_station": "Grand Central",
+        "duration_minutes": 22,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0149",
+        "started_at": "2026-09-30 23:29:21",
+        "ended_at": "2026-10-01 00:12:21",
+        "start_station": "Central Park North",
+        "end_station": "Wall Street",
+        "duration_minutes": 43,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0150",
+        "started_at": "2026-10-01 00:42:21",
+        "ended_at": "2026-10-01 00:48:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Central Park North",
+        "duration_minutes": 6,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0151",
+        "started_at": "2026-09-30 14:31:21",
+        "ended_at": "2026-09-30 15:05:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 34,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0152",
+        "started_at": "2026-09-30 20:27:21",
+        "ended_at": "2026-09-30 20:52:21",
+        "start_station": "Madison Square",
+        "end_station": "Chelsea",
+        "duration_minutes": 25,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0153",
+        "started_at": "2026-10-01 01:09:21",
+        "ended_at": "2026-10-01 01:22:21",
+        "start_station": "Madison Square",
+        "end_station": "SoHo",
+        "duration_minutes": 13,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0154",
+        "started_at": "2026-10-01 00:09:21",
+        "ended_at": "2026-10-01 01:05:21",
+        "start_station": "SoHo",
+        "end_station": "Chelsea",
+        "duration_minutes": 56,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0155",
+        "started_at": "2026-09-30 21:09:21",
+        "ended_at": "2026-09-30 21:17:21",
+        "start_station": "Madison Square",
+        "end_station": "Times Square",
+        "duration_minutes": 8,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0156",
+        "started_at": "2026-09-30 17:02:21",
+        "ended_at": "2026-09-30 17:40:21",
+        "start_station": "Chelsea",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 38,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0157",
+        "started_at": "2026-09-30 22:07:21",
+        "ended_at": "2026-09-30 22:39:21",
+        "start_station": "Madison Square",
+        "end_station": "Chelsea",
+        "duration_minutes": 32,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0158",
+        "started_at": "2026-09-30 16:03:21",
+        "ended_at": "2026-09-30 16:41:21",
+        "start_station": "SoHo",
+        "end_station": "Grand Central",
+        "duration_minutes": 38,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0159",
+        "started_at": "2026-09-30 20:00:21",
+        "ended_at": "2026-09-30 20:26:21",
+        "start_station": "Times Square",
+        "end_station": "Grand Central",
+        "duration_minutes": 26,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0160",
+        "started_at": "2026-10-01 03:29:21",
+        "ended_at": "2026-10-01 04:15:21",
+        "start_station": "Union Square",
+        "end_station": "Grand Central",
+        "duration_minutes": 46,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0161",
+        "started_at": "2026-09-30 18:27:21",
+        "ended_at": "2026-09-30 18:33:21",
+        "start_station": "Wall Street",
+        "end_station": "Central Park North",
+        "duration_minutes": 6,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0162",
+        "started_at": "2026-09-30 10:46:21",
+        "ended_at": "2026-09-30 11:43:21",
+        "start_station": "Union Square",
+        "end_station": "Wall Street",
+        "duration_minutes": 57,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0163",
+        "started_at": "2026-10-01 02:22:21",
+        "ended_at": "2026-10-01 03:02:21",
+        "start_station": "Grand Central",
+        "end_station": "Madison Square",
+        "duration_minutes": 40,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0164",
+        "started_at": "2026-09-30 18:01:21",
+        "ended_at": "2026-09-30 18:41:21",
+        "start_station": "Central Park North",
+        "end_station": "Times Square",
+        "duration_minutes": 40,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0165",
+        "started_at": "2026-09-30 22:41:21",
+        "ended_at": "2026-09-30 23:20:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Chelsea",
+        "duration_minutes": 39,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0166",
+        "started_at": "2026-09-30 12:42:21",
+        "ended_at": "2026-09-30 13:41:21",
+        "start_station": "Columbus Circle",
+        "end_station": "SoHo",
+        "duration_minutes": 59,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0167",
+        "started_at": "2026-09-30 14:34:21",
+        "ended_at": "2026-09-30 15:05:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Central Park North",
+        "duration_minutes": 31,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0168",
+        "started_at": "2026-09-30 23:46:21",
+        "ended_at": "2026-10-01 00:29:21",
+        "start_station": "Wall Street",
+        "end_station": "Times Square",
+        "duration_minutes": 43,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0169",
+        "started_at": "2026-09-30 19:50:21",
+        "ended_at": "2026-09-30 19:56:21",
+        "start_station": "Madison Square",
+        "end_station": "Times Square",
+        "duration_minutes": 6,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0170",
+        "started_at": "2026-10-01 07:09:21",
+        "ended_at": "2026-10-01 07:56:21",
+        "start_station": "Madison Square",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 47,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0171",
+        "started_at": "2026-09-30 22:35:21",
+        "ended_at": "2026-09-30 23:16:21",
+        "start_station": "Union Square",
+        "end_station": "Grand Central",
+        "duration_minutes": 41,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0172",
+        "started_at": "2026-10-01 08:48:21",
+        "ended_at": "2026-10-01 09:02:21",
+        "start_station": "Times Square",
+        "end_station": "SoHo",
+        "duration_minutes": 14,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0173",
+        "started_at": "2026-10-01 07:58:21",
+        "ended_at": "2026-10-01 08:05:21",
+        "start_station": "Grand Central",
+        "end_station": "Madison Square",
+        "duration_minutes": 7,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0174",
+        "started_at": "2026-09-30 18:11:21",
+        "ended_at": "2026-09-30 19:02:21",
+        "start_station": "Grand Central",
+        "end_station": "SoHo",
+        "duration_minutes": 51,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0175",
+        "started_at": "2026-09-30 16:47:21",
+        "ended_at": "2026-09-30 17:04:21",
+        "start_station": "Central Park North",
+        "end_station": "Times Square",
+        "duration_minutes": 17,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0176",
+        "started_at": "2026-09-30 12:33:21",
+        "ended_at": "2026-09-30 12:58:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Madison Square",
+        "duration_minutes": 25,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0177",
+        "started_at": "2026-09-30 14:25:21",
+        "ended_at": "2026-09-30 14:44:21",
+        "start_station": "SoHo",
+        "end_station": "Union Square",
+        "duration_minutes": 19,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0178",
+        "started_at": "2026-10-01 08:35:21",
+        "ended_at": "2026-10-01 08:47:21",
+        "start_station": "SoHo",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 12,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0179",
+        "started_at": "2026-10-01 00:07:21",
+        "ended_at": "2026-10-01 00:36:21",
+        "start_station": "Grand Central",
+        "end_station": "Times Square",
+        "duration_minutes": 29,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0180",
+        "started_at": "2026-10-01 05:37:21",
+        "ended_at": "2026-10-01 06:37:21",
+        "start_station": "Central Park North",
+        "end_station": "Union Square",
+        "duration_minutes": 60,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0181",
+        "started_at": "2026-10-01 10:19:21",
+        "ended_at": "2026-10-01 10:48:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Grand Central",
+        "duration_minutes": 29,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0182",
+        "started_at": "2026-09-30 11:54:21",
+        "ended_at": "2026-09-30 12:20:21",
+        "start_station": "Central Park North",
+        "end_station": "Grand Central",
+        "duration_minutes": 26,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0183",
+        "started_at": "2026-09-30 15:13:21",
+        "ended_at": "2026-09-30 15:40:21",
+        "start_station": "Wall Street",
+        "end_station": "Union Square",
+        "duration_minutes": 27,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0184",
+        "started_at": "2026-10-01 05:37:21",
+        "ended_at": "2026-10-01 06:27:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Union Square",
+        "duration_minutes": 50,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0185",
+        "started_at": "2026-09-30 13:41:21",
+        "ended_at": "2026-09-30 13:54:21",
+        "start_station": "Grand Central",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 13,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0186",
+        "started_at": "2026-09-30 17:04:21",
+        "ended_at": "2026-09-30 17:31:21",
+        "start_station": "Chelsea",
+        "end_station": "Central Park North",
+        "duration_minutes": 27,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0187",
+        "started_at": "2026-09-30 22:17:21",
+        "ended_at": "2026-09-30 22:49:21",
+        "start_station": "SoHo",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 32,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0188",
+        "started_at": "2026-09-30 22:01:21",
+        "ended_at": "2026-09-30 22:11:21",
+        "start_station": "Union Square",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 10,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0189",
+        "started_at": "2026-09-30 11:50:21",
+        "ended_at": "2026-09-30 12:47:21",
+        "start_station": "Chelsea",
+        "end_station": "Madison Square",
+        "duration_minutes": 57,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0190",
+        "started_at": "2026-09-30 11:59:21",
+        "ended_at": "2026-09-30 12:48:21",
+        "start_station": "Grand Central",
+        "end_station": "Times Square",
+        "duration_minutes": 49,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0191",
+        "started_at": "2026-09-30 21:17:21",
+        "ended_at": "2026-09-30 21:22:21",
+        "start_station": "Chelsea",
+        "end_station": "SoHo",
+        "duration_minutes": 5,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0192",
+        "started_at": "2026-09-30 21:13:21",
+        "ended_at": "2026-09-30 21:51:21",
+        "start_station": "Chelsea",
+        "end_station": "Madison Square",
+        "duration_minutes": 38,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0193",
+        "started_at": "2026-09-30 12:19:21",
+        "ended_at": "2026-09-30 12:54:21",
+        "start_station": "Chelsea",
+        "end_station": "Union Square",
+        "duration_minutes": 35,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0194",
+        "started_at": "2026-10-01 01:42:21",
+        "ended_at": "2026-10-01 01:49:21",
+        "start_station": "Grand Central",
+        "end_station": "Union Square",
+        "duration_minutes": 7,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0195",
+        "started_at": "2026-09-30 13:05:21",
+        "ended_at": "2026-09-30 13:39:21",
+        "start_station": "SoHo",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 34,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0196",
+        "started_at": "2026-10-01 09:47:21",
+        "ended_at": "2026-10-01 10:34:21",
+        "start_station": "Union Square",
+        "end_station": "Chelsea",
+        "duration_minutes": 47,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0197",
+        "started_at": "2026-10-01 02:17:21",
+        "ended_at": "2026-10-01 02:29:21",
+        "start_station": "SoHo",
+        "end_station": "Central Park North",
+        "duration_minutes": 12,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0198",
+        "started_at": "2026-10-01 03:31:21",
+        "ended_at": "2026-10-01 04:25:21",
+        "start_station": "Times Square",
+        "end_station": "Union Square",
+        "duration_minutes": 54,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0199",
+        "started_at": "2026-09-30 23:32:21",
+        "ended_at": "2026-10-01 00:12:21",
+        "start_station": "Times Square",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 40,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0200",
+        "started_at": "2026-10-01 01:43:21",
+        "ended_at": "2026-10-01 02:01:21",
+        "start_station": "Wall Street",
+        "end_station": "Chelsea",
+        "duration_minutes": 18,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0201",
+        "started_at": "2026-09-30 13:15:21",
+        "ended_at": "2026-09-30 14:03:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Grand Central",
+        "duration_minutes": 48,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0202",
+        "started_at": "2026-10-01 00:17:21",
+        "ended_at": "2026-10-01 01:14:21",
+        "start_station": "Wall Street",
+        "end_station": "Central Park North",
+        "duration_minutes": 57,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0203",
+        "started_at": "2026-10-01 02:37:21",
+        "ended_at": "2026-10-01 03:20:21",
+        "start_station": "Wall Street",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 43,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0204",
+        "started_at": "2026-09-30 15:52:21",
+        "ended_at": "2026-09-30 16:21:21",
+        "start_station": "Times Square",
+        "end_station": "Brooklyn Bridge",
+        "duration_minutes": 29,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0205",
+        "started_at": "2026-10-01 01:39:21",
+        "ended_at": "2026-10-01 01:54:21",
+        "start_station": "Union Square",
+        "end_station": "Wall Street",
+        "duration_minutes": 15,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0206",
+        "started_at": "2026-09-30 21:37:21",
+        "ended_at": "2026-09-30 22:02:21",
+        "start_station": "Chelsea",
+        "end_station": "Wall Street",
+        "duration_minutes": 25,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0207",
+        "started_at": "2026-09-30 17:32:21",
+        "ended_at": "2026-09-30 18:17:21",
+        "start_station": "Chelsea",
+        "end_station": "Madison Square",
+        "duration_minutes": 45,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0208",
+        "started_at": "2026-09-30 23:07:21",
+        "ended_at": "2026-09-30 23:38:21",
+        "start_station": "Chelsea",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 31,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0209",
+        "started_at": "2026-10-01 03:31:21",
+        "ended_at": "2026-10-01 04:28:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Grand Central",
+        "duration_minutes": 57,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0210",
+        "started_at": "2026-09-30 16:54:21",
+        "ended_at": "2026-09-30 17:16:21",
+        "start_station": "Union Square",
+        "end_station": "Columbus Circle",
+        "duration_minutes": 22,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0211",
+        "started_at": "2026-10-01 07:26:21",
+        "ended_at": "2026-10-01 07:51:21",
+        "start_station": "Grand Central",
+        "end_station": "Madison Square",
+        "duration_minutes": 25,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0212",
+        "started_at": "2026-09-30 17:44:21",
+        "ended_at": "2026-09-30 18:10:21",
+        "start_station": "Wall Street",
+        "end_station": "Chelsea",
+        "duration_minutes": 26,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0213",
+        "started_at": "2026-09-30 18:02:21",
+        "ended_at": "2026-09-30 18:14:21",
+        "start_station": "Madison Square",
+        "end_station": "Central Park North",
+        "duration_minutes": 12,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0214",
+        "started_at": "2026-09-30 16:50:21",
+        "ended_at": "2026-09-30 17:50:21",
+        "start_station": "Union Square",
+        "end_station": "Wall Street",
+        "duration_minutes": 60,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0215",
+        "started_at": "2026-10-01 08:08:21",
+        "ended_at": "2026-10-01 08:47:21",
+        "start_station": "SoHo",
+        "end_station": "Chelsea",
+        "duration_minutes": 39,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0216",
+        "started_at": "2026-09-30 23:15:21",
+        "ended_at": "2026-09-30 23:50:21",
+        "start_station": "Columbus Circle",
+        "end_station": "Chelsea",
+        "duration_minutes": 35,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0217",
+        "started_at": "2026-09-30 11:14:21",
+        "ended_at": "2026-09-30 11:34:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Times Square",
+        "duration_minutes": 20,
+        "member_casual": "casual"
+    },
+    {
+        "ride_id": "RIDE_0218",
+        "started_at": "2026-09-30 16:43:21",
+        "ended_at": "2026-09-30 17:25:21",
+        "start_station": "Brooklyn Bridge",
+        "end_station": "Madison Square",
+        "duration_minutes": 42,
+        "member_casual": "member"
+    },
+    {
+        "ride_id": "RIDE_0219",
+        "started_at": "2026-10-01 09:58:21",
+        "ended_at": "2026-10-01 10:11:21",
+        "start_station": "Times Square",
+        "end_station": "Union Square",
+        "duration_minutes": 13,
+        "member_casual": "casual"
+    }
+]
